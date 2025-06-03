@@ -1,0 +1,4 @@
+venv/
+file_to_send.bin
+received.bin
+/.mypy_cache
