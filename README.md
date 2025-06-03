@@ -3,8 +3,8 @@
 ### 1.1 выберите соответствующую ветку и в файле test/test_file_send.sh измените названия файлов на ваши
 ## 2. Запуск теста
 ### 2.1 ```bash
-test/test_file_send.sh
-```
+        test/test_file_send.sh
+        ```
 В случае ошибки при запуске файла выдайте права файлу
 ```bash
 chmod +x <path_to_file>
